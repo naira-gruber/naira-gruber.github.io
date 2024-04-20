@@ -6,3 +6,5 @@ tags:
 
 ### test 1 
 i like gambas, because they are **cool**
+
+![gambitas](/source/images/gambas.jpg)
