@@ -15,9 +15,6 @@ These lifesaving discoveries have a lot of value, tragically are most amphibians
 
 
 [Alkaloids daily](https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915) , 
-
 [Climate changes consequences frogs](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) 
-
 [Steckbrief Frösche](https://www.kindernetz.de/wissen/tierlexikon/steckbrief-frosch-100.html)
-
 [Frösche in der Natur](https://www.aces.edu/blog/topics/urban-extension/natures-frogs/)
