@@ -12,3 +12,6 @@ These lifesaving discoveries have a lot of value, tragically are most amphibians
 
 
 ![toad bufo](/images/bufotoad.jpg)
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915 , https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/ , https://www.kindernetz.de/wissen/tierlexikon/steckbrief-frosch-100.html , https://www.aces.edu/blog/topics/urban-extension/natures-frogs/#:~:text=Frogs%20are%20an%20integral%20part%20of%20the%20food%20chain.&text=As%20tadpoles%2C%20they%20consume%20algae,effects%20throughout%20an%20entire%20ecosystem
