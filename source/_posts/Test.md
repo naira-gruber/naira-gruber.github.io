@@ -11,7 +11,13 @@ Bacteria and viruses are getting fearfully resistant to antibiotics, an alternat
 These lifesaving discoveries have a lot of value, tragically are most amphibians, in cause of the climatic change, endangered. Salamanders, frogs, toads, many breathe and drink though their skin, that is why they are so sensitive to environment changes, like temperatures and the destruction of their natural habitat. So, let’s hope that we can save them and our beautiful planet!
 
 
-![toad bufo](/images/bufotoad.jpg)
+![toad Bufonidae family](/images/bufotoad.jpg)
 
 
-https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915 , https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/ , https://www.kindernetz.de/wissen/tierlexikon/steckbrief-frosch-100.html , https://www.aces.edu/blog/topics/urban-extension/natures-frogs/#:~:text=Frogs%20are%20an%20integral%20part%20of%20the%20food%20chain.&text=As%20tadpoles%2C%20they%20consume%20algae,effects%20throughout%20an%20entire%20ecosystem
+[Alkaloids daily](https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915) , 
+
+[Climate changes consequences frogs](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) 
+
+[Steckbrief Frösche](https://www.kindernetz.de/wissen/tierlexikon/steckbrief-frosch-100.html)
+
+[Frösche in der Natur](https://www.aces.edu/blog/topics/urban-extension/natures-frogs/)
