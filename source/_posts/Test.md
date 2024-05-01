@@ -4,15 +4,16 @@ date: 2024-04-20 21:22:43
 tags:
 ---
 
-There is a lot of reasons, that show the [importance of amphibians](https://www.aces.edu/blog/topics/urban-extension/natures-frogs/) in our ecosystem: They are a part of nature’s food chain, they are bioindicators for endangered ecosystems and a lot of other reasons, like using their toxins to beat diseases.
+This fascinating episode  of the [National Geographic Explore podcast](https://explore.podigee.io/51-ecuador-schokoladenrevolution-und-tiergiftforschung) discusses several reasons that highlight [the importance of amphibians](https://www.aces.edu/blog/topics/urban-extension/natures-frogs/) in our ecosystem. They are integral to nature's food chain, serve as bioindicators for endangered ecosystems, and offer other benefits, such as the potential use of their toxins in disease treatment.
 
-Bacteria and viruses are getting fearfully resistant to antibiotics, an alternative to that medication would be amphibian venom. An example would be the poison dart frog. He produces [Alkaloids](https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915), it is a substance like Morphine, a drug that reliefs pain, that works 250-times stronger. It also has almost no side effects, because food or phycological activities contain Alkaloids, this means our body is used to it and it won’t damage. Another example would be the Bufonidae toad family, their poison can help us treat cancer or even heart disorders. Scientists are still working on it, but it is clear, that this is going to get medicine to another level. A common issue is that some frogs and toads can only produce venom in their natural habitat. 
+Bacteria and viruses are becoming increasingly resistant to antibiotics. An alternative to conventional medication could be found in amphibian venom. For instance, the poison dart frog produces [alkaloids](https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915), substances akin to morphine but 250 times more potent. Moreover, alkaloids present minimal side effects, as they are naturally occurring in various foods and activities, making them compatible with our bodies. Another example lies in the Bufonidae toad family, whose poison may help in treating cancer and heart disorders. While scientists are still researching these applications, it's evident that they could revolutionize medicine. However, a significant challenge is that some frogs and toads can only produce venom in their natural habitat.
 
-These lifesaving discoveries have a lot of value, tragically are most amphibians, in cause of the climatic change, [endangered](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/). Salamanders, frogs, toads, many breathe and drink though their skin, that is why they are so sensitive to environment changes, like temperatures and the destruction of their natural habitat. So, let’s hope that we can save them and our beautiful planet!
+These life-saving discoveries hold immense value. Unfortunately, most amphibians are [endangered](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) due to climate change. Salamanders, frogs, and toads, many of which respire and absorb water through their skin, are highly sensitive to environmental changes like temperature fluctuations and habitat destruction. Therefore, it's crucial that we work towards preserving them and safeguarding our beautiful planet.
 
 
 ![toad Bufonidae family](/images/bufotoad.jpg)
 
- RECOMMENDED PODCAST: [EXPLORER NATIONAL GEOGRAPHIC](https://explore.podigee.io/51-ecuador-schokoladenrevolution-und-tiergiftforschung)
+
+
 
 
