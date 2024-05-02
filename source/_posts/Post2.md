@@ -1,6 +1,6 @@
 ---
 title: EL FASCINANTE REINO FUNGI 
-date: 2024-04-20 21:22:43
+date: 2024-05-01 16:53:11
 tags:
 ---
 Todos hemos experimentado la mañana después de la lluvia, cuando el aire parece haber sido purificado y queda ese distintivo aroma a tierra fresca. Sin embargo, este olor no proviene directamente de la tierra misma, sino de los microorganismos que habitan en el bosque.
