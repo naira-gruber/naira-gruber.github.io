@@ -10,4 +10,4 @@ Las bacterias y los virus están volviéndose cada vez más resistentes a los an
 
 Estos descubrimientos que salvan vidas tienen un valor inmenso. Desafortunadamente, la mayoría de los anfibios están [en peligro de extinción](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) debido al cambio climático. Salamandras, ranas y sapos, muchos de los cuales respiran y absorben agua a través de su piel, son muy sensibles a los cambios ambientales como subídas de temperatura y la destrucción del hábitat. Por lo tanto, es crucial que trabajemos para preservarlos y proteger nuestro hermoso planeta.
 
-![toad Bufonidae family](/images/rana.jpg)
+![toad Bufonidae family](/images/bufotoad.jpg)
