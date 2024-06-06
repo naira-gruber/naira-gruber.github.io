@@ -1,6 +1,7 @@
 ---
 title: ESCARABAJOS INVASORES
 date: 2024-06-06 19:34:00
+tags: 
 ---
 
 Los escarabajos de mayo, conocidos por su aparición en primavera y verano, son insectos que pasan de permanecer escondidos bajo rocas a ser vistos por todas partes, tanto de día como de noche. Su ciclo de vida consta de cuatro etapas.
@@ -11,4 +12,4 @@ Después de esta etapa, las larvas se transforman en pupas, donde permanecen dur
 
 Aunque pueden tener un impacto negativo en la agricultura, los escarabajos de mayo contribuyen al reciclaje de materia orgánica y son una fuente de alimento para varios animales.
 
-![Escarabajo de mayo](/image/escarabajo.jpg)
+![Escarabajo de mayo](/images/escarabajo.jpg)
