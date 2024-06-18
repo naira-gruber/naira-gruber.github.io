@@ -1,13 +1,20 @@
 ---
-title: ANFIBIOS FUTURÍSTICOS
+title: CAPÍTULO 1:ANFIBIOS FUTURÍSTICOS
 date: 2024-04-20 21:22:43
 tags:
 ---
 
-Este fascinante episodio del [podcast National Geographic Explore](https://explore.podigee.io/51-ecuador-schokoladenrevolution-und-tiergiftforschung) discute varias razones que resaltan [la importancia de los anfibios](https://www.aces.edu/blog/topics/urban-extension/natures-frogs/) en nuestro ecosistema. Son parte integral de la cadena alimentaria de la naturaleza, sirven como bioindicadores para ecosistemas en peligro de extinción y ofrecen otros beneficios, como el potencial uso de sus toxinas en el tratamiento de enfermedades.
+Queridos lectores,
 
-Las bacterias y los virus están volviéndose cada vez más resistentes a los antibióticos. Una alternativa a los medicamentos convencionales podría encontrarse en el veneno de los anfibios. Por ejemplo, la rana flecha venenosa produce [alcaloides](https://www.sciencedirect.com/science/article/abs/pii/S2214785321059915), sustancias similares a la morfina pero 250 veces más potentes. Además, los alcaloides presentan efectos secundarios mínimos, ya que se encuentran naturalmente en varios alimentos y actividades, lo que los hace compatibles con nuestro cuerpo. Otro ejemplo radica en la familia de sapos Bufonidae, cuyo veneno puede ayudar en el tratamiento del cáncer y trastornos cardíacos. Aunque los científicos aún están investigando estas aplicaciones, es evidente que podrían revolucionar la medicina. Sin embargo, un desafío significativo es que algunas ranas y sapos solo pueden producir veneno en su hábitat natural.
+Hace poco descubrí el [podcast Explore de National Geographic](https://teams.microsoft.com/l/message/48:notes/1712839694700?context=%7B%22contextType%22%3A%22chat%22%7D). Me pasé un tiempo escuchando un par de episodios, hasta que mencionaron los anfibios y el uso de sus toxinas para tratar enfermedades. Me sorprendió tanto que pensé que podría ser un buen tema para mi primer capítulo.
 
-Estos descubrimientos que salvan vidas tienen un valor inmenso. Desafortunadamente, la mayoría de los anfibios están [en peligro de extinción](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) debido al cambio climático. Salamandras, ranas y sapos, muchos de los cuales respiran y absorben agua a través de su piel, son muy sensibles a los cambios ambientales como subídas de temperatura y la destrucción del hábitat. Por lo tanto, es crucial que trabajemos para preservarlos y proteger nuestro hermoso planeta.
+Los anfibios no solo son importantes porque forman parte de la cadena alimentaria natural o porque son excelentes bioindicadores (organismos vivos que indican la calidad ambiental), sino también porque ofrecen beneficios en el sector de la medicina. Dado que los virus y las bacterias se están volviendo cada vez más resistentes a los antibióticos, sería importante explorar más opciones para combatirlos.
 
-![toad Bufonidae family](/images/bufotoad.jpg)
+Un buen ejemplo es la toxina de la rana flecha venenosa. El veneno producido por una rana de esta especie contiene [alcaloides](https://www.sciencedirect.com/science/article/abs/pii/0041010178900375), una sustancia parecida a la morfina (sustancia que alivia el dolor), pero que es 250 veces más potente. Además, casi no tiene efectos secundarios, ya que el veneno está naturalmente dispuesto a actuar de manera precisa en el sistema nervioso. Así, una criatura tan pequeña como la rana flecha venenosa podría ayudar a tratar el cáncer o trastornos cardiacos, enfermedades que han matado a millones de personas.
+
+Lamentablemente, la mayoría de los anfibios enfrentan [la amenaza de extinción](https://www.washingtonpost.com/climate-environment/2023/10/04/frog-climate-amphibians-extinction/) debido al cambio climático y la destrucción de su hábitat. Por eso es aún más importante que todos cuidemos de nuestro planeta y ecosistema.
+
+De vuestra querida heralda...
+
+
+![rana flecha venenosa](/images/ranaflecha.jpg)
