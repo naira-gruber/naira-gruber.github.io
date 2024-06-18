@@ -1,5 +1,5 @@
 ---
-title: CAPÍTULO 1:ANFIBIOS FUTURÍSTICOS
+title: CAPÍTULO 1:"ANFIBIOS FUTURÍSTICOS"
 date: 2024-04-20 21:22:43
 tags:
 ---
