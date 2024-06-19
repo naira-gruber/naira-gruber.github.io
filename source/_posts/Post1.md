@@ -17,4 +17,4 @@ Lamentablemente, la mayoría de los anfibios enfrentan [la amenaza de extinción
 De vuestra querida heralda...
 
 
-![rana flecha venenosa](/images/ranaflecha.jpg)
+![ranas flechas venenosas](/images/azul.jpg)
