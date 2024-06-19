@@ -1,5 +1,5 @@
 ---
-title: EL FASCINANTE REINO FUNGI 
+title: CAPÍTULO 2:"EL FASCINANTE REINO FUNGI"
 date: 2024-05-01 16:53:00
 tags:
 ---
