@@ -5,8 +5,9 @@ tags:
 ---
 
 
-Querido lector,
+Queridos lectores,
 
-¿Cuál sería tu definición de flora y fauna? La mía sería la siguiente: un mundo de asombrosa creatividad, colores vibrantes, formas fascinantes, texturas variadas y aromas evocadores. Cada ser, por más diminuto que sea, tiene una historia única para contar. A través de este mundo, te guiaré como tu "heralda" humilde, una estudiante dispuesta a compartir información que quizás aún no conocías y ayudarte a comprender mejor nuestro entorno.
+Bienvenidos a mi blog. Mi nombre es "heralda" y soy la humilde estudiante que os guiará por esta página personal, enseñándoos mis intereses, como la biología o la cocina. Así, ampliaréis vuestro conocimiento y, a la vez, disfrutaréis leyendo.
+Hasta aquí mi corta introducción. Gracias por leer y apoyarme.
 
-De tu queridísima heralda...
+De vuestra querida heralda...
