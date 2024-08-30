@@ -29,4 +29,4 @@ PREPARACIÓN:
 De vuestra heralda...
 
 
-![ratatouille](/images/rata.jpg)
+![ratatouille](/images/ratatouille.jpg)
