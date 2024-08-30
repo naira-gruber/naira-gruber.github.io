@@ -5,6 +5,7 @@ tags:
 ---
 
 Queridísimos lectores,
+
 Hoy toca una de mis recetas favoritas: la ratatouille. Si ya habéis visto la película, ya sabréis de lo que estoy hablando, pero lo voy a aclarar para el resto: son verduritas finamente cortadas en una salsa de pimientos y tomates rojos al horno. ¡El resultado es alucinante!
 
 INGREDIENTES (para 3 personas):
