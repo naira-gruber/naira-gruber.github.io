@@ -20,3 +20,4 @@ Algunos científicos creen que esa es la razón por la que les crece el colmillo
 
 De vuestra queridísima heralda...
 
+![narval](/images/narval.jpg)
