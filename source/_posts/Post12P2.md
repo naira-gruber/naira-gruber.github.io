@@ -20,7 +20,7 @@ SALA 2
 
 En las grandes ciudades, nacen innovaciones producto de la industrialización que contaminan el aire y los paisajes, algo que a artistas como Claude Monet no les agrada, por lo que se trasladan al campo. Monet intenta capturar la luz y presenta ángulos inusuales, con texturas y pinceladas libres. Así nace el impresionismo. En la misma época, se forma también el grupo de pintores "Der Blaue Reiter", quienes desarrollan el expresionismo. Este estilo otorga sentimientos y atmósfera a los colores y juega con los contrastes, especialmente entre el verde-rojo y el amarillo-azul.
 
-![impresionismo y expresionismo](/images/exandim.png)
+![impresionismo y expresionismo](/images/exandim2.png)
 
 SALA 3
 
