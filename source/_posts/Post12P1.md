@@ -13,7 +13,7 @@ En Austria reinaban hace unos 750 años los Habsburgo, una familia muy poderosa 
 
 Su estrategia para expandir el territorio fue casar a sus hijos (de los cuales tenía 16). Un ejemplo es María Antonieta, quien fue casada con el rey Luis de Francia, perteneciente a los Borbones franceses. Con este matrimonio, las dos naciones se unieron, y los Habsburgo se fortalecieron.
 
-Entre tantos hijos, María Teresa tenía su favorita: María Cristina. A diferencia de sus hermanos, ella pudo elegir su matrimonio. A los 20 años, se decidió por Alberto de Sajonia-Teschen, un hombre que no tenía tanto poder en comparación con ella, pero al casarse heredó toda la fortuna y el título de Cristina. Se cree que Alberto y Cristina se llevaban muy bien, ya que compartían muchos intereses, y uno de ellos fue el arte gráfico. Gracias a la fortuna que tenían, compraron y coleccionaron muchas piezas de arte, las cuales expusieron en su residencia, el palacio de Hofburg.
+Entre tantos hijos, María Teresa tenía su favorita: María Cristina. A diferencia de sus hermanos, ella pudo elegir su matrimonio. A los 20 años, se decidió por Alberto de Sajonia-Teschen, un hombre que no tenía tanto poder en comparación con ella, pero al casarse heredó toda la fortuna y el título de Cristina. Se cree que Alberto y Cristina se llevaban muy bien, ya que compartían muchos intereses, y uno de ellos fue el arte gráfico. Gracias a la fortuna que tenían, compraron y coleccionaron muchas piezas, las cuales expusieron en su residencia, el palacio de Hofburg.
 
 Después de la caída del imperio, las obras pasaron a ser propiedad del Estado, al igual que el palacio, y por eso se decidió convertirlo en un museo (Albertina). 
 
