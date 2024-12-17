@@ -6,7 +6,7 @@ tags:
 
 Queridos lectores,
 
-Me disculpo por no haber aparecido hace ya ocho semanas; estaba ocupada estudiando para exámenes importantes y organizando todo para la Navidad. Mi regalo anticipado para todos vosotros será este interesante post sobre los higos y la polémica sobre si se pueden considerar veganos. ¡Feliz Navidad!
+Me disculpo por no haber aparecido hace ya cinco semanas; estaba ocupada estudiando para exámenes importantes y organizando todo para la Navidad. Mi regalo anticipado para todos vosotros será este interesante post sobre los higos y la polémica sobre si se pueden considerar veganos. ¡Feliz Navidad!
 
 Primero, voy a dejar claro que [los higos no son frutas](https://www.ecoportal.net/paises/bohigos-insectos/), son una infrutescencia, un conjunto de flores agrupadas que, tras la fecundación, se transforman en algo parecido a un fruto. En cambio, la fruta proviene de una sola flor. Ejemplos cotidianos de infrutescencias son la piña, la fresa, la mora o los cítricos.
 
