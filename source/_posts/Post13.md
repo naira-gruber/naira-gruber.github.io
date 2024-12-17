@@ -1,5 +1,5 @@
 ---
-title: CAPÍTULO 13:"HIGOS"
+title: CAPÍTULO 13:"HIGOS, ¿UN PRODUCTO ANIMAL?"
 date: 2024-12-17 19:41:00
 tags:
 ---
