@@ -65,8 +65,13 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: GENERAL
 category_map:
+  HISTORIA: HISTORIA
+  ARTE: ARTE
+  CIENCIA: CIENCIA
+  COCINA: COCINA
+  MEDIO AMBIENTE: MEDIO AMBIENTE
 tag_map:
 
 # Metadata elements
