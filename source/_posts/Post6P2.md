@@ -9,7 +9,7 @@ tags:
 
 Queridos lectores,
 
-Sigamos charlando sobre nuestras pequeñas productoras de miel. Por si todavía no habéis leído la primera parte, aquí está el enlace: http://example.com/2024/08/25/Post6P1/.
+Sigamos charlando sobre nuestras pequeñas productoras de miel. Por si todavía no habéis leído la primera parte, aquí está el enlace: http://secretos-de-la-heralda.com/2024/08/25/Post6P1/.
 
 Como mencioné previamente, hay tres tipos de abejas en una colmena: las obreras, los zánganos y la reina. Hoy no nos centraremos en la vida de las abejas, sino en el impacto que tienen en los humanos, por ejemplo, las picaduras de abeja. Las obreras solo pican cuando sienten que les queréis hacer daño a ellas o a su familia. Si es el caso y alguna te pica, pasa lo siguiente: la abeja que te picó tiene un aguijón, y este tiene una púa. La púa es lo que hace que el aguijón se quede atascado en la piel. Al intentar escapar, el aguijón se queda clavado en la piel con la burbuja de veneno y, además, parte de sus órganos, lo que hace que muera en pocas horas. Este problema no lo tiene la reina, porque no posee una púa como las obreras, y el zángano aún menos, porque no tiene ni aguijón.
 
