@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 8:"CEVICHE MIXTO"
 date: 2024-09-06 18:43:00
+categories: 
+  - COCINA
 tags:
 ---
 

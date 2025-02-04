@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 10:"OTOÑERO"
 date: 2024-09-25 16:35:00
+categories: 
+  - COCINA
 tags:
 ---
 

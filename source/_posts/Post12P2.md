@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 12:"BATLINER" P2
 date: 2024-10-22 20:35:00
+categories: 
+  - ARTE
 tags:
 ---
 

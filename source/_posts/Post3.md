@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 3:"TAAM JA',EL AGUJERO AZUL MÁS PROFUNDO"
 date: 2024-05-03 14:03:00
+categories:
+  - CIENCIA
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 13:"RAGÚ DE SETAS"
 date: 2024-11-01 17:03:00
+categories: 
+  - COCINA
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 14:"HIGOS, ¿UN PRODUCTO ANIMAL?"
 date: 2024-12-17 19:41:00
+categories: 
+  - CIENCIA
 tags:
 ---
 

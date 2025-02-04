@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 15:"LAS PERSECUCIONES DE LAS BRUJAS DE SALEM"
 date: 2025-01-15 21:48:00
+categories: 
+  - HISTORIA
 tags:
 ---
 

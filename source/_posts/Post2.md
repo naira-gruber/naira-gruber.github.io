@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 2:"EL FASCINANTE REINO FUNGI"
 date: 2024-05-01 16:53:00
+categories: 
+  - CIENCIA
 tags:
 ---
 Queridos lectores,

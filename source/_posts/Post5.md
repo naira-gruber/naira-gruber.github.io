@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 5:"LA HISTORIA DE LAS PALOMAS"
 date: 2024-07-30 16:51:00
+categories:
+  - HISTORIA
 tags:
 ---
 

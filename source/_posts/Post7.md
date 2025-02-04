@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 7:"RATATOUILLE"
 date: 2024-08-30 15:03:00
+categories: 
+  - COCINA
 tags:
 ---
 

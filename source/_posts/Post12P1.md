@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 12:"ALBERTINA" P1
 date: 2024-10-22 16:00:00
+categories: 
+  - ARTE
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 6:"LAS TRABAJADORAS Y SU VIDA" P2
 date: 2024-08-26 19:00:00
+categories: 
+  - CIENCIA
 tags:
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: CAPÍTULO 9:"BUY LESS, CHOOSE WELL, MAKE IT LAST"
 date: 2024-09-10 19:58:00
+categories: 
+  - MEDIO AMBIENTE
 tags:
 ---
 
