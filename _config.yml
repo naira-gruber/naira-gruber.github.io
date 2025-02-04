@@ -64,6 +64,12 @@ index_generator:
   per_page: 10
   order_by: -date
 
+archive_generator:
+  per_page: 10
+  yearly: true
+  monthly: false
+  daily: false
+
 # Category & Tag
 default_category: GENERAL
 category_map:
