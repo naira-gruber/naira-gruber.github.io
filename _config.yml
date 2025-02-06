@@ -67,7 +67,7 @@ index_generator:
 archive_generator:
   per_page: 10
   yearly: true
-  monthly: false
+  monthly: true
   daily: false
 
 # Category & Tag
