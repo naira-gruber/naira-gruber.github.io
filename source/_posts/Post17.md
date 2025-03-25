@@ -3,7 +3,6 @@ title: CAPÍTULO 17:"MI EXPERIENCIA COMO GUARDIANA DE ANFIBIOS"
 date: 2025-03-25 21:05:00
 categories: 
   - MEDIO AMBIENTE
-  - CIENCIA
 tags:
 ---
 
