@@ -1,6 +1,6 @@
 ---
 title: CAPÍTULO 18:"LA COCINA ES QUÍMICA" P1
-date: 2025-04-08 21:05:00
+date: 2025-04-08 14:22:00
 categories: 
   - CIENCIA
 tags:
