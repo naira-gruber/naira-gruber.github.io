@@ -29,7 +29,7 @@ La grasa, a menudo contemplada como enemiga, es otra fuente de energía fundamen
 
 Eso sí, hay que diferenciar las grasas saturadas, unas cadenitas rígidas que se deberían consumir regularmente (carne roja), con las insaturadas, unas cadenitas dobladas que aportan muchos beneficios (salmón, omega 3), como la reducción del colesterol.
 
-Por último, el agua. Los humanos estamos compuestos de 50% a 70%, esto nos hace dependientes del agua, al igual que todos los otros seres vivos conocidos.
+Para terminar, el agua. Los humanos estamos compuestos de 50% a 70%, esto nos hace dependientes del agua, al igual que todos los otros seres vivos conocidos.
 
 Aquí acaba la primera parte, pero la siguiente ya está en camino y ansiosa por ser publicada. Ya podéis estar entusiasmados, porque llegan unas publicaciones superinteresantes sobre el proceso de la cocción y los sabores.
 
