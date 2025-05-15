@@ -18,6 +18,6 @@ Es sorprendente que algo tan apegado a la vida diaria sea tan desconocido. Es co
 
 Todo comienza al saber que la levadura es un hongo. Este se alimenta de los azúcares de la masa (harina o endulzantes añadidos), los descompone en moléculas más pequeñas, y estas se transforman en CO₂ (dióxido de carbono) y etanol (alcohol). El CO₂ quiere salir de la masa por el calor que lo empuja hacia arriba, pero la red de gluten lo impide, por eso el pastel acaba volviéndose esponjoso. ¿Y qué pasa con el alcohol? En su mayor parte, se evapora, aunque siempre queda una cantidad insignificante para el consumidor.
 
-Hay química infinita por explorar y compartir con vosotros, pero, tristemente (o por suerte), nos esperan otros temas que investigar. ¡Nos vemos en la parte 3!
+Hay química infinita por explorar y compartir con vosotros, pero, tristemente (o por suerte) esta segunda parte acaba aquí.
 
 De vuestra queridísima heralda...

@@ -31,7 +31,7 @@ Eso sí, hay que diferenciar las grasas saturadas, unas cadenitas rígidas que s
 
 Para terminar, el agua. Los humanos estamos compuestos de 50% a 70%, esto nos hace dependientes del agua, al igual que todos los otros seres vivos conocidos.
 
-Aquí acaba la primera parte, pero la siguiente ya está en camino y ansiosa por ser publicada. Ya podéis estar entusiasmados, porque llegan unas publicaciones superinteresantes sobre el proceso de la cocción y los sabores.
+Aquí acaba la primera parte, pero la siguiente ya está en camino y ansiosa por ser publicada. Ya podéis estar entusiasmados, porque llega una publicación super interesante sobre el proceso de la cocción y los sabores.
 
 ¡Au revooooir!
 
