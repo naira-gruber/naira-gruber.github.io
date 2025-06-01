@@ -1,5 +1,5 @@
 ---
-title: CAPÍTULO 19:"LA COCINA ES QUÍMICA" P2
+title: CAPÍTULO 19:"EL DESCUBRIMIENTO DE LA EVOLUCIÓN"
 date: 2025-06-01 18:13:00
 categories: 
   - CIENCIA
@@ -26,4 +26,4 @@ La gran pregunta es: ¿Por qué Galápagos? Esta se ha razonado por las 4 Ps:
 
 De vuestra querida heralda... ¡aquí el [video](https://youtu.be/1zd_zbtaUEg?si=z0L6Yj1gz9R8rd-G)!
 
-![Beagle Voyage](/images/galapagos voyage.webp)
+![Beagle Voyage](/images/galapagos.png)
