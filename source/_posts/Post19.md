@@ -2,8 +2,7 @@
 title: CAPÍTULO 19:"EL DESCUBRIMIENTO DE LA EVOLUCIÓN"
 date: 2025-06-01 18:13:00
 categories: 
-  - CIENCIA
-tags:
+  - HISTORIA
 ---
 
 Queridas/os lectoras/es,
