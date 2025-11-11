@@ -6,3 +6,5 @@ categories:
 ---
 
 ![GUAC](/images/guac.png)
+
+pictures by Naira
